@@ -1,2 +1,3 @@
 # Data-Science
-Portfólio com análises e projetos de Data Science em Python
+
+Aqui você encontra os notebooks dos meus projetos na área de Data Science e Machine Learning.
