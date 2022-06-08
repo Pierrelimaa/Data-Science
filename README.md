@@ -9,3 +9,8 @@ Neste notebook temos o projeto final do curso da Alura, Estatística com Python 
 ## [Estatística com Python - Parte 2](https://github.com/Pierrelimaa/Data-Science/tree/main/Estatistica%20com%20python%20parte%202)
 
 Neste notebook temos o projeto final do curso da Alura, Estatística com Python - Parte 2 (Probabilidade e Amostragem). O projeto consistiu em aplicar os conceitos aprendidos sobre alguns tipos de distribuições (Distribuição Binomial, Distribuição de Poisson, Distribuição Normal), amostragem, estimação e cáculo de tamanho de amostras, utilizando um dataset previamente tratado, pelo instrutor do curso, retirado do IBGE (Pesquisa Nacional por Amostra de Domicílios - 2015).
+
+## [Brazilian E-Commerce Public Dataset by Olist](https://github.com/Pierrelimaa/Data-Science/tree/main/Brazilian%20E-Commerce%20Public%20Dataset%20by%20Olist)
+
+Neste notebook foi utilizado um dos datasets fornecidos pela Olist (dataset olist_order_payments), para realizar uma análise descritiva em cima dos dados. O dataset é composto por mais de 100000 pedidos de diversos marketplaces no Brasil durante o período de 2016 até 2018. O estudo foi feito em inglês e após alguns tratamentos e análises no dataset, foi possível encontrar algumas métricas interessantes, como a correlação do número de parcelas com valor do pagamento do pedido, valor médio dos pedidos entre outras.
+
