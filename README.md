@@ -14,3 +14,6 @@ Neste notebook temos o projeto final do curso da Alura, Estatística com Python 
 
 Neste notebook foi utilizado um dos datasets fornecidos pela Olist (dataset olist_order_payments), para realizar uma análise descritiva em cima dos dados. O dataset é composto por mais de 100000 pedidos de diversos marketplaces no Brasil durante o período de 2016 até 2018. O estudo foi feito em inglês e após alguns tratamentos e análises no dataset, foi possível encontrar algumas métricas interessantes, como a correlação do número de parcelas com valor do pagamento do pedido, valor médio dos pedidos entre outras.
 
+## [Regressão Linear: testando relações e prevendo resultados](https://github.com/Pierrelimaa/Data-Science/tree/main/Regressão%20Linear%20testando%20relações%20e%20prevendo%20resultados)
+
+Este projeto consiste em criar um modelo de Regressão Linear para obter o preço de um imóvel. Nele foi utilizado o dataset HousePrices_HalfMil, gerado por computador, neste projeto foram realizados um tratamento simples de outliers utilizando IQR(Interquartil Range), assim como algumas análises para encontrar o melhor modelo. Como ferramentas de estudo, foram utilizadas as seguintes bibliotecas: pandas, numpy, seaborn, sklearn.
