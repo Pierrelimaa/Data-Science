@@ -10,3 +10,6 @@ possível inadimplência.
 Desse modo, você solicita um conjunto de dados que contenha as informações de clientes, da solicitação de empréstimo, do histórico de crédito,
 bem como se a pessoa mutuaria é inadimplente ou não. Com esses dados, você sabe que consegue modelar um classificador capaz de encontrar potenciais clientes
 inadimplentes e solucionar o problema do Alura Cash.
+
+### Semana 1  
+   #### [Resultados obtidos na semana 1](https://github.com/Pierrelimaa/Data-Science/tree/main/Alura%20Challenge%20Dados%202022/Semana%201)
