@@ -213,3 +213,5 @@ Tabela que relaciona os IDs de cada informação da pessoa solicitante
     INNER JOIN dados_mutuarios ON id.person_id = dados_mutuarios.person_id
     INNER JOIN emprestimos ON id.loan_id = emprestimos.loan_id
  ---- 
+ 
+A união das tabelas gerou um dataset com **14952** registros e após essa união a tabela foi corvertida para um arquivo .csv que será utilizado nos próximos estudos.
